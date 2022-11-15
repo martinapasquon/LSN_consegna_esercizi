@@ -1,0 +1,12 @@
+0
+0.570422
+0.822685
+50
+50
+
+  ReadInput >> SA;
+  ReadInput >> mean;
+  ReadInput >> sigma;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  
