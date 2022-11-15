@@ -1,11 +1,11 @@
-LSN_exercises_delivery
+# cartella esercizi LSN 
 
-
+### Contenuto:
 
 Ciascuna cartella contiene il jupyer notebook con i risultati ottenuti in ogni esercitazione, il codice sorgente `.cpp`, l'header file `.h`l'eseguibile `.exe`, il Makefile, la libreria `random` ed eventuali altre piccole librerie scritte da me. 
 
 
-Istruzuioni per la compilazione:
+### Istruzuioni per la compilazione:
 Per compilare gli esercizi dei primi 9 laboratori entrare nella cartella d'interesse, digitare
  `$ make`
 e quindi
